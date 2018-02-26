@@ -1,0 +1,63 @@
+##  Considerations
+-  Which measure should be obtained
+-  how often should you measure
+-  how much sampling each time
+
+##  Measure incidence or severity
+-  when assessments made pre-30 days?
+  -  Incidence
+-  when assessments made post-40 days?
+  -  Severity
+
+##  Which measure of disease intensity should be obtained?
+-  Depends on 3 things
+  -  Pathosystem being studied:  incidence for systemic and soilborne diseases;  severity for non-systemic, above ground diseases (panama disease and wilt of palm:  incidence.  Mango malformation:  severity)
+  -  Magnitude of disease intensity:  if intensity is high and over a wide area, incidence may be preferred to severity
+  -  Objectives of the investigator:
+
+##  Measurement levels and random variables
+-  Measurement level
+  -  Nominal level-  label assigned to each measure individual
+    - diseased = D healthy = H
+  -  Ordinal Level-  an ordered value is given to each measured individual
+    -  Example 0 = no, 1 = slight, 2 = moderate, 3 = severe
+  -  Interval measurements are ordered and differences between them have direct interpretation
+    -  Temperature differences
+  -  Ratio-  measurements are ordered and differences between them have direct interpretation;  in addition, there is a zero point or fixed origin
+    -  30% disease severity is 3x as large as 10%
+
+##  Random variables
+-  discrete- all possible values are countable
+  -  count variables-  ranges from 0 to infinity, although there is a theoretical upper limit
+    -  number of lesions/number of spores
+  -  Categorical variable
+    -  Binary= as few as 2 categories
+    -  More than 2 categories but no order=  Nominal
+      -  species of phytophthora in soil
+    -  If categories have order = ordered categorical
+-  Continuous-  number of possible values not countable
+  -  Differences between values can be directly interpreted
+  -  analogous to interval and ratio level
+
+##  Remote sensing and electronic assessment of disease severity
+-  Spectral signature
+  -  based on radiation off of canopy
+-  Image analysis
+  -  video or still camera is used to take a picture of a plant specimen
+
+##  Indirect measurement of disease severity
+-  root diseases:  measure senescence or wilting
+
+##  Reliability and accuracy
+-  reliability-  extent to which the measurements of individuals obtained under different conditions yield similar results
+-  intra-rater reliability- agreement between measurements of a property taken repeatedly by the same rater
+-  Inter-rater reliability-  agreement between measurements of a property among different raters
+-  accuracy-  degree of closeness to measured values to a recognized standard or true value
+
+##  Crop loss assessment
+-  study of relationship between attack by harmful organisms and the resulting yield (or yield loss) of crops
+
+## crop loss
+-  reduction in quality
+-  reduction in quantity
+-  plant death
