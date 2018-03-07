@@ -1,0 +1,34 @@
+#  Modeling
+
+##  Model
+-  Simplified representation of the real world
+-  approximations of what we think is happening
+
+##  aspects of plant pathology commonly modeled:
+-  disease progress
+-  disease gradients
+-  spore dispersal
+-  spore germination
+-  disease intensity-yield relationships
+-  effects of environment on disease
+-  disease forecasting
+
+##  Regression modeling
+-  e term is error
+
+##  Two approaches to model development
+-  Empirical-  developed using observed data;  doesn't take into account the theory or biological mechanisms underlying the process in question
+-  Mechanistic-  developed by starting with a theory, hypothesis, or concept underlying the process in question;  takes into account the biological mechanism underlying the process in question
+
+##  Coefficient of Variation
+-  R^2 from 0-1, 1 being the best
+
+##  Deciding on a model that best describes the data
+-  Greater similarity between observed and predicted disease severity values
+
+##  Mechanistic modeling
+
+
+##  Simulation Modeling
+-  simulate the process of a real world system
+-  
